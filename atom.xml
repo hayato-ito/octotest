@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://gclueHayato.github.io/octotest/atom.xml" rel="self"/>
   <link href="http://gclueHayato.github.io/octotest/"/>
-  <updated>2013-06-04T17:35:19+09:00</updated>
+  <updated>2013-06-04T17:37:47+09:00</updated>
   <id>http://gclueHayato.github.io/octotest/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,30 @@
     <link href="http://gclueHayato.github.io/octotest/blog/2013/06/04/test-post/"/>
     <updated>2013-06-04T17:21:00+09:00</updated>
     <id>http://gclueHayato.github.io/octotest/blog/2013/06/04/test-post</id>
-    <content type="html"><![CDATA[<p><img src="http://gclueHayato.github.io/octotest/images/test/img_001.png" title="test" alt="this is test file"></p>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;hoge&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h1>Heading1</h1>
+
+<h2>Heading2</h2>
+
+<ul>
+<li>list</li>
+<li>list</li>
+</ul>
+
+
+<h3>Heading3</h3>
+
+<blockquote><p>This is Block</p></blockquote>
+
+<p>this is normal</p>
+
+<p>Maybe <strong>strong</strong> text.</p>
+
+<p><img src="http://gclueHayato.github.io/octotest/images/test/img_001.png" title="test" alt="this is test file"></p>
 ]]></content>
   </entry>
   
